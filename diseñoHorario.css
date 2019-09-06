@@ -1,0 +1,31 @@
+img{
+    margin-left: 25%;
+    left: 50%;
+}
+table{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(7, 34, 46);
+    color: white;
+    text-align: center;
+}
+.principal{
+    background-color: rgb(0, 221, 250);
+}
+.h{
+    background-color: rgb(0, 183, 255);
+}
+.receso{
+    background-color: rgb(133, 196, 221);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.m{
+    background-color: rgb(176, 235, 230);
+}
